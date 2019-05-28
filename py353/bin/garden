@@ -1,5 +1,4 @@
-#!/home/local/IDEALINVEST/eberson.cosme/estudos/Estudos Python Kivy/py353/bin/python3
-
+#!/usr/bin/python3
 import sys
 import argparse
 import zipfile
